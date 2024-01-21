@@ -20,7 +20,7 @@
     height: 50px;
     width: 60px;
     background-color: aquamarine;
-    background-image:url("logo.png") ;
+    background-image:url("images/logo.png") ;
     background-size: cover;
 }
 .brand-name-nav{
@@ -72,7 +72,7 @@ a{
 .magnifing-glass{
     height: 35px;
     width: 75px;
-   background-image: url("magnifying-glass-icon.jpg");
+   background-image: url("images/magnifying-glass-icon.jpg");
    background-size: cover;
     border-radius: 0 10px 10px 0 ;
 }
@@ -102,7 +102,7 @@ a{
 .background-cover-first-page-index{
         height: 800px;
         width: 1519PX;
-        background-image: url("banner\ two.jpg");
+        background-image: url("images/banner\ two.jpg");
         background-size: cover;
         padding-top: 0%;
  }
@@ -181,7 +181,7 @@ fieldset{
     width: 1519PX;
   padding-top: 10px;
   
-    background-image:url("banner\ two.jpg");
+    background-image:url("images/banner\ two.jpg");
     background-size: cover;
 }
 /* .input-one{
@@ -309,7 +309,7 @@ p{
 .background-cover-first-home-page{
     height: 300px;
     width: 1519PX;
-    background-image: url("banner\ two.jpg");
+    background-image: url("images/banner\ two.jpg");
     background-size: cover;
 }
 .brand-name-home-page{
@@ -361,7 +361,7 @@ p{
 }
 .home-page-box-1-boxes-flex{
     /* background-color: aquamarine; */
-    background-image:url("mobiles-laptops.jpg");
+    background-image:url("images/mobiles-laptops.jpg");
     background-size: cover;
     height: 300px;
     width: 320px;
@@ -383,19 +383,19 @@ p{
 .home-page-box-2-box-2_1{
     height: 150px;
     width: 300px;
-    background-image: url("ps5-picture.jpg");
+    background-image: url("images/ps5-picture.jpg");
     background-size: cover;
 }
 
 .home-page-box-2-box-2_3{
-    background-image: url("airpods.jpg");
+    background-image: url("images/airpods.jpg");
     height: 150px;
     width: 150px;
     background-size: cover;
     background-color: rgb(187, 117, 33);
 }
 .home-page-box-2-box-2_4{
-    background-image: url("charger.jpg");
+    background-image: url("images/charger.jpg");
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -404,7 +404,7 @@ p{
 
 .home-page-box-3-boxes-flex{
     /* background-color: aquamarine; */
-    background-image:url("appliances-picture.png") ;
+    background-image:url("images/appliances-picture.png") ;
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -514,7 +514,7 @@ ul{
 .shop-deal-bar-1-pic-1{
     height: 200px;
     width: 260px;
-    background-image: url("shop-deal-bar-1-pic-1.jpeg");
+    background-image: url("images/shop-deal-bar-1-pic-1.jpeg");
     background-size: cover;
 }
 .shop-deal-bar-div-offer-content{
@@ -578,7 +578,7 @@ ul{
 .shop-deal-bar-1-pic-2{
     height: 200px;
     width: 300px;
-    background-image: url("shop-deal-bar-1-pic-2.jpeg");
+    background-image: url("images/shop-deal-bar-1-pic-2.jpeg");
     background-size: cover;
 }
 
@@ -595,7 +595,7 @@ ul{
 .shop-deal-bar-1-pic-3{
     height: 250px;
     width: 300px;
-    background-image: url("shop-deal-bar-1-pic-3.jpeg");
+    background-image: url("images/shop-deal-bar-1-pic-3.jpeg");
     background-size: cover;
 }
 
@@ -613,7 +613,7 @@ ul{
 .shop-deal-bar-1-pic-4{
     height: 200px;
     width: 245px;
-    background-image: url("shop-deal-bar-1-pic-4.jpeg");
+    background-image: url("images/shop-deal-bar-1-pic-4.jpeg");
     background-size: cover;
 }
 /* /mobile-bar/ */
@@ -642,7 +642,7 @@ ul{
 .shop-deal-bar-2-pic-1{
     height: 200px;
     width: 200px;
-    background-image: url("shop-deal-bar-2-pic-1.jpeg");
+    background-image: url("images/shop-deal-bar-2-pic-1.jpeg");
     background-size: cover;
 }
 .shop-deal-bar-div-offer-content{
@@ -701,7 +701,7 @@ ul{
 .shop-deal-bar-2-pic-2{
     height: 200px;
     width: 180px;
-    background-image: url("shop-deal-bar-2-pic-2.jpeg");
+    background-image: url("images/shop-deal-bar-2-pic-2.jpeg");
     background-size: cover;
 }
 
@@ -718,7 +718,7 @@ ul{
 .shop-deal-bar-2-pic-3{
     height: 200px;
     width: 200px;
-    background-image: url("shop-deal-bar-2-pic-3.jpeg");
+    background-image: url("images/shop-deal-bar-2-pic-3.jpeg");
     background-size: cover;
 }
 
@@ -736,57 +736,57 @@ ul{
 .shop-deal-bar-2-pic-4{
     height: 200px;
     width: 200px;
-    background-image: url("shop-deal-bar-2-pic-4.jpeg");
+    background-image: url("images/shop-deal-bar-2-pic-4.jpeg");
     background-size: cover;
 }
 /*gadgets*/
 .shop-deal-bar-1-pic-1-gadgets{
     height: 210px;
     width: 260px;
-    background-image: url("headphones.jpg");
+    background-image: url("images/headphones.jpg");
     background-size: cover;
 }
 .shop-deal-bar-1-pic-2-gadgets{
     height: 200px;
     width: 300px;
-    background-image: url("airpodss.jpg");
+    background-image: url("images/airpodss.jpg");
     background-size: cover;
 }
 .shop-deal-bar-1-pic-3-gadgets{
     height: 234px;
     width: 300px;
-    background-image: url("power\ bank.jpeg");
+    background-image: url("images/power\ bank.jpeg");
     background-size: cover;
 }
 .shop-deal-bar-1-pic-4-gadgets{
     height: 210px;
     width: 300px;
-    background-image: url("gadgets.jpg");
+    background-image: url("images/gadgets.jpg");
     background-size: cover;
 }
 /*shop deal bar 2 gadgets/*/
 .shop-deal-bar-2-pic-1-gadgets{
     height: 200px;
     width: 200px;
-    background-image: url("mouse.jpg");
+    background-image: url("images/mouse.jpg");
     background-size: cover;
 }
 .shop-deal-bar-2-pic-2-gadgets{
     height: 200px;
     width: 200px;
-    background-image: url("laser.jpg");
+    background-image: url("images/laser.jpg");
     background-size: cover;
 }
 .shop-deal-bar-2-pic-3-gadgets{
     height: 200px;
     width: 200px;
-    background-image: url("keyboard.jpg");
+    background-image: url("images/keyboard.jpg");
     background-size: cover;
 }
 .shop-deal-bar-2-pic-4-gadgets{
     height: 200px;
     width: 200px;
-    background-image: url("watch.jpeg");
+    background-image: url("images/watch.jpeg");
     background-size: cover;
 }
 
@@ -794,50 +794,50 @@ ul{
 .shop-deal-bar-1-pic-1-home-appliances{
     height: 200px;
     width: 260px;
-    background-image: url("shop-deal-bar-1-pic-1-home-appliances.jpeg");
+    background-image: url("images/shop-deal-bar-1-pic-1-home-appliances.jpeg");
     background-size: cover;
 }
 .shop-deal-bar-1-pic-2-home-appliances{
     height: 200px;
     width: 300px;
-    background-image: url("regifi.jpg");
+    background-image: url("images/regifi.jpg");
     background-size: cover;
 }
 .shop-deal-bar-1-pic-3-home-appliances{
     height: 200px;
     width: 320px;
-    background-image: url("juiceer.jpg");
+    background-image: url("images/juiceer.jpg");
     background-size: cover;
 }
 .shop-deal-bar-1-pic-4-home-appliances{
     height: 200px;
     width: 300px;
-    background-image: url("leed.jpg");
+    background-image: url("images/leed.jpg");
     background-size: cover;
 }
 /*shop deal bar 2 gadgets/*/
 .shop-deal-bar-2-pic-1-home-appliances{
     height: 200px;
     width: 200px;
-    background-image: url("ROOM\ COOLER.jpg");
+    background-image: url("images/ROOM\ COOLER.jpg");
     background-size: cover;
 }
 .shop-deal-bar-2-pic-2-home-appliances{
     height: 200px;
     width: 200px;
-    background-image: url("HEATER.jpg");
+    background-image: url("images/HEATER.jpg");
     background-size: cover;
 }
 .shop-deal-bar-2-pic-3-home-appliances{
     height: 200px;
     width: 200px;
-    background-image: url("automatic\ washing\ machine.jpg");
+    background-image: url("images/automatic\ washing\ machine.jpg");
     background-size: cover;
 }
 .shop-deal-bar-2-pic-4-home-appliances{
     height: 200px;
     width: 200px;
-    background-image: url("remote\ fan.jpg");
+    background-image: url("images/remote\ fan.jpg");
     background-size: cover;
 }
 .about-us-page{
